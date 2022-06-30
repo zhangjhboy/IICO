@@ -285,7 +285,7 @@ def omit_extra(costs, X, delta_X):
 
 
 def iico_test():
-    fun = get_function_by_name('Ackley')
+    fun = get_function_by_name('Sphere')
 
     dim = 50
     n = 30
